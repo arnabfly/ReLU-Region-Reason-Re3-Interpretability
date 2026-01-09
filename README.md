@@ -108,11 +108,14 @@ This code is provided for academic and research purposes. If you use this code i
 
 If you use this code in your research, please cite:
 ```bibtex
-@article{barua2025re3,
-  title={Mechanistic Interpretability of ReLU Neural Networks Through Piecewise-Affine Mapping},
-  author={Barua, Arnab and Ahmed, Mobyen Uddin and Begum, Shahina},
-  journal={Machine Learning},
-  year={2026},
+@article{Barua7328,
+author = {Arnab Barua and Mobyen Uddin Ahmed and Shahina Begum},
+title = {Mechanistic Interpretability of ReLU Neural Networks Through Piecewise-Affine Mapping},
+pages = {1--35},
+month = {January},
+year = {2026},
+journal = {Machine Learning},
+url = {http://www.es.mdu.se/publications/7328-}
 }
 ```
 Barua, A., Ahmed, M.U. & Begum, S. Mechanistic Interpretability of ReLU Neural Networks Through Piecewise-Affine Mapping. Mach Learn 115, 17 (2026). https://doi.org/10.1007/s10994-025-06957-0
@@ -129,3 +132,4 @@ For questions or issues:
 ## Acknowledgments
 
 This work was conducted at the School of Innovation, Design and Engineering, Mälardalen University, Sweden.
+
