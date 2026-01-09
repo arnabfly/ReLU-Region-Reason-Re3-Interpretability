@@ -62,7 +62,7 @@ pip install pandas numpy torch scikit-learn scipy lime shap matplotlib jupyter
    - `re3_2_layers.ipynb` for 2 hidden layers example
    - `re3_3_layers.ipynb` for 3 hidden layers example
 
-4. Run all cells to see complete Re3 analysis
+4. Run all cells to see the complete Re3 analysis
 
 ### Using Other Datasets
 
@@ -84,9 +84,9 @@ To adapt the notebooks for other datasets:
 
 ## What the Notebooks Demonstrate
 
-- Model training on Iris dataset
+- Model training on the Iris dataset
 - Region identification and analysis
-- Visualization of results
+- Visualisation of results
 
 ## Requirements
 
@@ -112,10 +112,13 @@ If you use this code in your research, please cite:
   title={Mechanistic Interpretability of ReLU Neural Networks Through Piecewise-Affine Mapping},
   author={Barua, Arnab and Ahmed, Mobyen Uddin and Begum, Shahina},
   journal={Machine Learning},
-  year={2025},
-  note={Under review}
+  year={2026},
 }
 ```
+Barua, A., Ahmed, M.U. & Begum, S. Mechanistic Interpretability of ReLU Neural Networks Through Piecewise-Affine Mapping. Mach Learn 115, 17 (2026). https://doi.org/10.1007/s10994-025-06957-0
+
+## Code Citation
+Barua, A., & Ahmed, M. U. (2025). ReLU Region Reason (Re3). Zenodo. https://doi.org/10.5281/zenodo.17551140
 
 ## Contact
 
@@ -126,9 +129,3 @@ For questions or issues:
 ## Acknowledgments
 
 This work was conducted at the School of Innovation, Design and Engineering, Mälardalen University, Sweden.
-
-## Related Publication
-
-Barua, A., Ahmed, M. U., & Begum, S. (2025). Mechanistic Interpretability of ReLU Neural Networks Through Piecewise-Affine Mapping. *Machine Learning* (under review).
-
-DOI: [Will add Upon Publishing]
